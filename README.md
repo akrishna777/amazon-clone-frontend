@@ -1,4 +1,5 @@
 ![amazon-clone](https://i.ibb.co/KG2RTcm/brave-yei-QRZic-Co.png)
+![amazon-clone2](https://i.ibb.co/QpnKqqw/Screenshots.jpg)
 # Amazon Clone 2022
 
 ## Introduction
